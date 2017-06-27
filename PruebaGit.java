@@ -12,5 +12,6 @@ public class PruebaGit {
         // TODO code application logic here
         String nombre = JOptionPane.showInputDialog("Ingrese su Nombre");
         JOptionPane.showMessageDialog(null,"Tu Nombre es: "+nombre);
+        JOptionPane.showMessageDialog(null,"Saliendo del Programa");
     }
 }
